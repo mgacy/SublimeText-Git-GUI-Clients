@@ -17,5 +17,8 @@
   ],
   "sourcetree": [
     "/usr/local/bin/stree"
+  ],
+  "tower": [
+    "/usr/local/bin/gittower"
   ]
 }
